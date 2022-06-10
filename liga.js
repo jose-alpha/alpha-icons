@@ -25,6 +25,10 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'edit': '&#xe95f;',
+            'pencil-square': '&#xe95f;',
+            'edit-outline': '&#xe977;',
+            'pencil-square-outline': '&#xe977;',
             'bank': '&#xe90d;',
             'eye-slash-outline': '&#xe917;',
             'arrow-downward': '&#xe922;',

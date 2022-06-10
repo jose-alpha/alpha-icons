@@ -4,6 +4,10 @@
 
 ## changelogs
 
+v1.1 (June 10, 2022):
+- added edit and edit-outline icons
+- update README
+
 v1.0.1 (June 10, 2022):
 - update README
 
